@@ -1,5 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&weight=400&size=18&duration=1&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Rub%C3%A9n+Diz+Mart%C3%ADnez" alt="Typing SVG" /></a>
+    </br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Interested+in+Cyber+and+Fullstack;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
+<p align='center'>
+  🎮 You can start a <a href='https://www.chess.com/member/rubi960'>♟Chess game</a> with me, my actual
+<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FRubi960%2Fstats'/>
+  </p>
+
+Random dev joke!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p>
   📣 Formas de contactarme<br/>
@@ -7,10 +22,12 @@
   <a href="https://instagram.com/ruben_dm_9"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rub%C3%A9n-diz-mart%C3%ADnez-ab1a17254"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Rubii960"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Rubi960"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
 </p>
 
 
-<details>
+<details open>
   <summary><b>Lenguajes y herramientas [icono de algo]</b></summary>
   <br/>
   <p align="left">
@@ -20,6 +37,7 @@
         HTML5
         CSS3
         JS
+        DJango
         Flutter
         Bash
         Dart
@@ -37,7 +55,7 @@
         AWS
   </p>
 </details>
-<details>
+<details open>
   <summary><b>SOs que he usado [icono de algo]</b></summary>
   <br/>
   <p align="left">
@@ -56,7 +74,7 @@
         
   </p>
 </details>
-<details>
+<details open>
   <summary><b>Idiomas [icono de algo]</b></summary>
   <br/>
   <p align="left">
@@ -66,10 +84,17 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Stats [icono de algo]</b></summary>
     <br/>
     <p align="left">
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
         Hay algo llamado waka y que está en esta [web](https://github.com/anmol098/waka-readme-stats) y sirve para hacer stats chulas
     </p>
     <p align="left">
@@ -84,6 +109,7 @@
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rubi960&show_icons=true&theme=gotham%22%20alt=%22Rubi960" />
    </p>
 </details>
+
 
 
 <!--
