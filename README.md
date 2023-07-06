@@ -28,64 +28,63 @@ Random dev joke!
 
 
 <details open>
-  <summary><b>Lenguajes y herramientas [icono de algo]</b></summary>
+  <summary><b>Lenguajes y herramientas</b></summary>
   <br/>
   <p align="left">
-        C
-        Java
-        Pyhton
-        HTML5
-        CSS3
-        JS
-        DJango
-        Flutter
-        Bash
-        Dart
-        Ocaml
-        Octave
-        R
-        MySQL
-        VSCode
-        Git
-        GitHub
-        Docker
-        Vim
-        Postman
-        Packet Tracer
-        AWS
+    <img height="50" src="img/prog and tools/aws.png">
+    <img height="50" src="img/prog and tools/bash.png">
+    <img height="50" src="img/prog and tools/c.png">
+    <img height="50" src="img/prog and tools/css.png">
+    <img height="50" src="img/prog and tools/dart.png">
+    <img height="50" src="img/prog and tools/django.png">
+    <img height="50" src="img/prog and tools/docker.png">
+    <img height="50" src="img/prog and tools/flutter.png">
+    <img height="50" src="img/prog and tools/git.png">
+    <img height="50" src="img/prog and tools/github.png">
+    <img height="50" src="img/prog and tools/html.png">
+    <img height="50" src="img/prog and tools/java.png">
+    <img height="50" src="img/prog and tools/js.png">
+    <img height="50" src="img/prog and tools/mysql.png">
+    <img height="50" src="img/prog and tools/ocaml.png">
+    <img height="50" src="img/prog and tools/octave.png">
+    <img height="50" src="img/prog and tools/packetTracer.png">
+    <img height="50" src="img/prog and tools/postman.png">
+    <img height="50" src="img/prog and tools/python.png">
+    <img height="50" src="img/prog and tools/r.png">
+    <img height="50" src="img/prog and tools/vim.png">
+    <img height="50" src="img/prog and tools/vscode.png">
+
   </p>
 </details>
 <details open>
-  <summary><b>SOs que he usado [icono de algo]</b></summary>
+  <summary><b>SOs que he usado</b></summary>
   <br/>
   <p align="left">
-        Ubuntu
-        Ubuntu Server
-        Kali Linux
-        Debian
-        Devuan
-        Solaris 11
-        FreeBSD
-        OpenBSD
-        NetBSD
-        Fedora
-        Windows
-        
-        
+    <img height="50" src="img/so/debian.png">
+    <img height="50" src="img/so/devuan.png">
+    <img height="50" src="img/so/fedora.png">
+    <img height="50" src="img/so/freebsd.png">
+    <img height="50" src="img/so/kali.png">
+    <img height="50" src="img/so/netbsd.png">
+    <img height="50" src="img/so/openbsd.png">
+    <img height="50" src="img/so/solaris.png">
+    <img height="50" src="img/so/ubuntu.png">
+    <img height="50" src="img/so/ubuntu server.png">
+    <img height="50" src="img/so/windows.png">
   </p>
 </details>
 <details open>
   <summary><b>Idiomas [icono de algo]</b></summary>
   <br/>
   <p align="left">
-        Español
-        Gallego
-        Inglés
+    <img height="50" src="img/lang/spanish.png">
+    <img height="50" src="img/lang/galician.png">
+    <img height="50" src="img/lang/english.png">
   </p>
 </details>
 
 <details open>
-  <summary><b>Stats [icono de algo]</b></summary>
+  <summary><b>Stats</b></summary>
     <br/>
     <p align="left">
 
@@ -95,8 +94,9 @@ Random dev joke!
 
 <!--END_SECTION:waka-->
 
-        Hay algo llamado waka y que está en esta [web](https://github.com/anmol098/waka-readme-stats) y sirve para hacer stats chulas
+    Hay algo llamado waka y que está en esta [web](https://github.com/anmol098/waka-readme-stats) y sirve para hacer stats chulas
     </p>
+
     <p align="left">
     <br/>
 
