@@ -69,12 +69,12 @@ Random dev joke!
     <img height="50" src="img/so/openbsd.png">
     <img height="50" src="img/so/solaris.png">
     <img height="50" src="img/so/ubuntu.png">
-    <img height="50" src="img/so/ubuntu server.png">
+    <img height="50" src="img/so/ubuntu_server.png">
     <img height="50" src="img/so/windows.png">
   </p>
 </details>
 <details open>
-  <summary><b>Idiomas [icono de algo]</b></summary>
+  <summary><b>Idiomas</b></summary>
   <br/>
   <p align="left">
     <img height="50" src="img/lang/spanish.png">
@@ -86,31 +86,34 @@ Random dev joke!
 <details open>
   <summary><b>Stats</b></summary>
     <br/>
-    <p align="left">
 
-<!--START_SECTION:waka-->
+   </p>
+
+<!--
+   <p>
+  <img src="https://raw.githubusercontent.com/rubi960/github-stats-transparent/output/generated/languages.svg" />
+  <img src="https://raw.githubusercontent.com/rubi960/github-stats-transparent/output/generated/overview.svg" />
+   </p>
+-->
 
 
+   <p align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api?username=rubi960&show_icons=true&theme=gotham%22%20alt=%22Rubi960" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubi960&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+   </p>
 
-<!--END_SECTION:waka-->
-
-    Hay algo llamado waka y que está en esta [web](https://github.com/anmol098/waka-readme-stats) y sirve para hacer stats chulas
+<!--
+    <p align="center"> 
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubi960&hide_border=true" /> 
     </p>
+-->
 
-    <p align="left">
-    <br/>
+</details>
 
+  </br>
    <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
    </p>
-   
-   <br/>
-   </p>
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rubi960&show_icons=true&theme=gotham%22%20alt=%22Rubi960" />
-   </p>
-</details>
-
-
 
 <!--
 **Rubi960/Rubi960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
