@@ -5,23 +5,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=24&pause=1000&color=9D4EDD&weight=600&size=24&duration=5500&pause=1000&center=true&vCenter=true&random=false&width=550&lines=Interested+in+Cyber+and+Fullstack;Always+learning+new+things"/>
 </p>
 
+
 <p align="center">
-  <a href='https://www.linkedin.com/in/rub%C3%A9n-diz-mart%C3%ADnez-ab1a17254'><img alt="linkedin" src="img/logos/linkedin.svg" height='35px'/></a>
-  <a href='https://twitter.com/Rubii960'><img alt="twitter" src="img/logos/twitter.svg" height='35px'/></a>
-  <a href='https://instagram.com/ruben_dm_9'><img alt="twitter" src="img/logos/instagram.svg" height='35px'/></a>
   <a href="mailto:ruben.diz@udc.es?subject=[GitHub]%20%20First%20contact&body=Hello%20Rub%C3%A9n%2C%0A%0AI%27m%20writing%20to%20you%20today%20after%20viewing%20your%20GitHub%20profile%20to%20...">
   <img src="/img/logos/outlook.svg" height="35px"></a>
+  <a href='https://www.linkedin.com/in/rub%C3%A9n-diz-mart%C3%ADnez-ab1a17254'><img alt="linkedin" src="img/logos/linkedin.svg" height='35px'/></a>
+  <a href='https://instagram.com/ruben_dm_9'><img alt="twitter" src="img/logos/instagram.svg" height='35px'/></a>
+  <a href='https://twitter.com/Rubii960'><img alt="twitter" src="img/logos/twitter.svg" height='35px'/></a>
 </p>
 
-## :incoming_envelope: Contact me
 
-<p>
-  <a href="mailto:ruben.diz@udc.es?subject=[GitHub]%20Toma%20de%20contacto&body=Hola%20Rub%C3%A9n%2C%0A%0AMe%20dirijo%20a%20ti%20hoy%20despu%C3%A9s%20de%20ver%20tu%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://instagram.com/ruben_dm_9"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rub%C3%A9n-diz-mart%C3%ADnez-ab1a17254"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Rubii960"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/Rubi960"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ## :student: About Me
 
