@@ -77,17 +77,8 @@
   <code><img height="50" src="img/lang/english.png"></code>
 </div>
 
-
-<!--
-   <p>
-  <img src="https://raw.githubusercontent.com/rubi960/github-stats-transparent/output/generated/languages.svg" />
-  <img src="https://raw.githubusercontent.com/rubi960/github-stats-transparent/output/generated/overview.svg" />
-   </p>
--->
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Rubi960&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rubi960&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubi960&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
